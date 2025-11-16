@@ -1,3 +1,6 @@
+// Program to write the contents to the file using Node.js file system
+
+
 const fs = require('fs');
 const readline = require('readline');
 

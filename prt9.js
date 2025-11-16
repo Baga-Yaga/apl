@@ -1,3 +1,6 @@
+// Program to read the contents from the directory and display on console using Node.js
+
+
 const fs = require('fs');
 
 fs.readdir("./prt9", (err,files) =>{

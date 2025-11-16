@@ -1,3 +1,6 @@
+// Program for demonstrating any 5 functions of console global object
+ 
+
 console.log("consle log");
 console.error("error");
 console.warn("warning");
