@@ -6,7 +6,7 @@ const dns = require("dns");
 // 1. dns.lookup()
 dns.lookup("google.com", (err, address, family) => {
     if (err) throw err;
-    console.log("1. Lookup:");
+    console.log("\n1. Lookup:");
     console.log("Address:", address, "Family:", family);
 });
 

@@ -1,10 +1,9 @@
 // Program for reading data from stream using Node.js
 
-
 const fs = require("fs");
 
 // Create readable stream
-const readStream = fs.createReadStream("sample.txt", "utf8");
+const readStream = fs.createReadStream("prt7.txt", "utf8");
 
 // Event: data (chunk received)
 readStream.on("data", (chunk) => {
