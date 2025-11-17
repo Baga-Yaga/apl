@@ -1,6 +1,5 @@
 // Program for put HTTP method using Express.js
 
-
 const express = require("express");
 const app = express();
 

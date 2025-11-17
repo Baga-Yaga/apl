@@ -1,0 +1,17 @@
+.muiContainer {
+  margin: 30px;
+  width: 300px;
+}
+
+.muiTitle {
+  text-align: center;
+  color: purple;
+  margin-bottom: 20px;
+}
+
+.muiCard {
+  padding: 10px;
+}
+
+/* npm install @mui/material @emotion/react @emotion/styled
+ */

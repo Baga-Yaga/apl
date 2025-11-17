@@ -1,0 +1,11 @@
+.container {
+  margin: 30px;
+}
+
+.externalStyle {
+  color: green;
+  background-color: lightyellow;
+  padding: 10px;
+  border: 1px solid green;
+  font-size: 20px;
+}

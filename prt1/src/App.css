@@ -1,0 +1,47 @@
+/* Center the form on the page */
+.formContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Title */
+.formTitle {
+  font-size: 22px;
+  margin-bottom: 15px;
+  color: purple;
+  text-align: center;
+}
+
+/* Form box styling */
+.formBox {
+  width: 300px;
+  padding: 20px;
+  border: 2px solid black;
+  background-color: #e3f2fd;
+  border-radius: 10px;
+}
+
+/* Input styling */
+.inputBox {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+
+/* Button styling */
+.btnClass {
+  background-color: green;
+  color: white;
+  padding: 8px;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+}
+
+.btnClass:hover {
+  background-color: darkgreen;
+}
